@@ -1,17 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T10:51:49.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0eD0MZI9C-yNHKrc721L" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T10:56:00.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="UNnGHNh9WMLMff1VN_Kb" version="21.3.0" type="github">
   <diagram name="Page-1" id="StsqhVnkVrEMywvsspmI">
     <mxGraphModel dx="1035" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2HHhsxmkcTFIKpmXz-RJ-7" value="Persintation module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="-80" width="160" height="30" as="geometry" />
+          <mxGeometry x="810" y="-140" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="2HHhsxmkcTFIKpmXz-RJ-8" target="2HHhsxmkcTFIKpmXz-RJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2HHhsxmkcTFIKpmXz-RJ-8" target="2HHhsxmkcTFIKpmXz-RJ-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2HHhsxmkcTFIKpmXz-RJ-8" value="AppModule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="-110" width="160" height="30" as="geometry" />
+          <mxGeometry x="334" y="-150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2HHhsxmkcTFIKpmXz-RJ-9" target="2HHhsxmkcTFIKpmXz-RJ-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2HHhsxmkcTFIKpmXz-RJ-9" value="Auth module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-80" width="160" height="30" as="geometry" />
+          <mxGeometry y="-100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2HHhsxmkcTFIKpmXz-RJ-7" target="2HHhsxmkcTFIKpmXz-RJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-15" value="Auth module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-16" value="Auth module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="803" y="-70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-21" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-350" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-22" value="login Component" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry y="-20" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-27" value="Auth module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="40" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-28" value="Auth module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="87" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-29" value="Auth module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-30" value="Auth module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="180" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2HHhsxmkcTFIKpmXz-RJ-27" target="2HHhsxmkcTFIKpmXz-RJ-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
