@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T10:47:50.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NLm6IkpGEyq5zcO1w_iF" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T10:51:49.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0eD0MZI9C-yNHKrc721L" version="21.3.0" type="github">
   <diagram name="Page-1" id="StsqhVnkVrEMywvsspmI">
-    <mxGraphModel dx="1035" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-1" value="test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="10" width="70" height="40" as="geometry" />
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-7" value="Persintation module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-8" value="AppModule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="-110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2HHhsxmkcTFIKpmXz-RJ-9" value="Auth module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-80" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
